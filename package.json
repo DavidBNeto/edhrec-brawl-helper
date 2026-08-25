@@ -1,0 +1,19 @@
+{
+  "name": "edhrec-brawl-helper",
+  "version": "1.0.0",
+  "description": "Brawl filter for edhrec",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidBNeto/edhrec-brawl-helper.git"
+  },
+  "author": "Davidbneto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidBNeto/edhrec-brawl-helper/issues"
+  },
+  "homepage": "https://github.com/DavidBNeto/edhrec-brawl-helper#readme"
+}
